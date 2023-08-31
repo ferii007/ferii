@@ -14,6 +14,13 @@ import threejs from "./tech/threejs.svg";
 import bootstrap from "./tech/bootstrap.png";
 import laravel from "./tech/laravel.png";
 
+import portal from "./projects/3D-Portal.webp";
+import eatscape from "./projects/eatscape.webp";
+import mindcrash from "./projects/mindcrash.webp";
+import portfolio from "./projects/portfolio.webp";
+import pos from "./projects/pos.webp";
+import rebill from "./projects/rebill.webp";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -34,6 +41,13 @@ export {
   threejs,
   bootstrap,
   laravel,
+
+  portal, 
+  eatscape, 
+  mindcrash, 
+  portfolio,
+  pos,
+  rebill,
 
   carrent,
   jobit,

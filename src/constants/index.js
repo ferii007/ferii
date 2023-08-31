@@ -11,7 +11,14 @@ import {
   tripguide,
   threejs,
   bootstrap,
-  laravel
+  laravel,
+
+  portal, 
+  eatscape, 
+  mindcrash, 
+  portfolio,
+  pos,
+  rebill,
 } from "../assets";
 
 export const navLinks = [
@@ -103,66 +110,158 @@ const experiences = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "3D-Portal",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga qui quibusdam nesciunt iusto velit distinctio.",
     tags: [
       {
-        name: "react",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "threejs",
+        color: "green-text-gradient",
+      },
+    ],
+    image: portal,
+    source_code_link: "https://github.com/",
+  },
+
+  {
+    name: "Mindcrash",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga qui quibusdam nesciunt iusto velit distinctio.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
+        name: "javascript",
         color: "green-text-gradient",
       },
       {
         name: "css",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: mindcrash,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "My First Portfolio",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga qui quibusdam nesciunt iusto velit distinctio.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: portfolio,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Eatscape",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga qui quibusdam nesciunt iusto velit distinctio.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: eatscape,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "ReBill",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga qui quibusdam nesciunt iusto velit distinctio.",
+    tags: [
+      {
+        name: "laravel",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: rebill,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "ReBill-POS",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga qui quibusdam nesciunt iusto velit distinctio.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "laravel",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: pos,
     source_code_link: "https://github.com/",
   },
 ];
