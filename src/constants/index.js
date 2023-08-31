@@ -59,7 +59,7 @@ const experiences = [
     company_name: "PT. Ultimo Solutions",
     icon: git,
     iconBg: "#383E56",
-    date: "Jan 2021 - April 2021",
+    date: "Jan 2020 - April 2020",
     points: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore rerum alias recusandae sapiente dolorum.",
       "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
