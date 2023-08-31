@@ -1,4 +1,5 @@
 import {
+  php,
   javascript,
   html,
   css,
@@ -9,6 +10,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  bootstrap,
+  laravel
 } from "../assets";
 
 export const navLinks = [
@@ -40,6 +43,10 @@ const techs = [
     icon: javascript,
   },
   {
+    title: "PHP",
+    icon: php,
+  },
+  {
     title: "ThreeJS",
     icon: threejs,
   },
@@ -50,6 +57,18 @@ const techs = [
   {
     title: "TailwindCSS",
     icon: tailwind,
+  },
+  {
+    title: "Bootstrap",
+    icon: bootstrap,
+  },
+  {
+    title: "Laravel",
+    icon: laravel,
+  },
+  {
+    title: "Git",
+    icon: git,
   },
 ];
 
