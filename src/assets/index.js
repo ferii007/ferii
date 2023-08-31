@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -21,12 +20,7 @@ import portfolio from "./projects/portfolio.webp";
 import pos from "./projects/pos.webp";
 import rebill from "./projects/rebill.webp";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
 export {
-  logo,
   github,
   menu,
   close,
@@ -48,8 +42,4 @@ export {
   portfolio,
   pos,
   rebill,
-
-  carrent,
-  jobit,
-  tripguide,
 };
