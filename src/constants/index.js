@@ -78,16 +78,16 @@ const techs = [
 
 const experiences = [
   {
-    title: "Testing Engineer",
+    title: "Field Work Practice",
     company_name: "PT. Ultimo Solutions",
     icon: git,
     iconBg: "#383E56",
     date: "Jan 2020 - April 2020",
     points: [
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore rerum alias recusandae sapiente dolorum.",
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore rerum alias recusandae sapiente dolorum.",
+      "Conducted manual testing to identify bugs and review the outcomes of senior-developed websites prior to publication.",
+      "Explored a comprehensive understanding of HTML, CSS, and JavaScript to enhance skills in web development.",
+      "Designed and developed basic responsive websites to demonstrate proficiency in responsive design techniques.",
+      "Undertook the study of the C# programming language to broaden knowledge and skills in software development.",
     ],
   },
   {
@@ -97,10 +97,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Oct 2021 - Now",
     points: [
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore rerum alias recusandae sapiente dolorum.",
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore rerum alias recusandae sapiente dolorum.",
+      "Translated Figma designs into functional code using HTML, CSS, and JavaScript.",
+      "Designed and built a landing page for CuciCepat, showcasing relevant information and features.",
+      "Developed a landing page for ReBill using Laravel framework and TailwindCSS for enhanced design and functionality.",
+      "Collaborated within the ReBill-POS team to update content and perform various tasks to enhance the platform.",
     ],
   },
 ];
