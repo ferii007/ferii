@@ -2,8 +2,7 @@
   "name": "ferii",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://ferii-r.my.id/",
-  "type": "module",
+  "homepage": "http://ferii007.github.io/ferii",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
