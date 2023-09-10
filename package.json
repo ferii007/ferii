@@ -2,7 +2,7 @@
   "name": "ferii",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ferii007.github.io/ferii",
+  "homepage": "http://ferii-r.my.id/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
